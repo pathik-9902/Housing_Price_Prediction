@@ -1,3 +1,5 @@
+keras
+flask
 pandas
 numpy
 matplotlib
